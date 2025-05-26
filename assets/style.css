@@ -5,3 +5,32 @@
   margin: 0;
   padding: 0;
 }
+
+.container {
+  max-width: 60%;
+  margin: 20px auto;
+}
+
+h1 {
+  margin-bottom: 15px;
+}
+
+.create-block {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+input {
+  padding: 10px 15px;
+  border-radius: 3px;
+  border: 1px solid grey;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #df4354;
+  border: none;
+  border-radius: 3px;
+  color: white;
+}
